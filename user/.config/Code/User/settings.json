@@ -1,0 +1,17 @@
+{
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 2,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.suggestSelection": "first",
+    "breadcrumbs.enabled": true,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "files.watcherExclude": {
+        "**/target/**": true
+    },
+    "search.exclude": {
+        "**/target": true
+    },
+}

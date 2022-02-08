@@ -1,0 +1,4 @@
+export VISUAL=vim
+export EDITOR="$VISUAL"
+
+alias grep="/usr/bin/grep --color=auto --exclude-dir={.bzr,CVS,.git,.hg,.svn,.idea,.tox,node_modules,target}"
