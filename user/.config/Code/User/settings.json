@@ -1,6 +1,5 @@
 {
     "window.titleBarStyle": "custom",
-    "window.zoomLevel": 2,
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "none",
     "editor.formatOnSave": true,
@@ -14,4 +13,5 @@
     "search.exclude": {
         "**/target": true
     },
+    "terminal.integrated.defaultProfile.linux": "zsh",
 }
